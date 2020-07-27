@@ -2,14 +2,13 @@
 title: "关于希尔排序的步长有序性的证明"
 subtitle: "一个经常被忽视的值得关注的问题"
 layout: post
-author: yh
+author: "yh"
 header-style: text
 tags:
     - Program Art
 ---
 
-## 背景
-[希尔排序](https://baike.baidu.com/item/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F)
+> [希尔排序](https://baike.baidu.com/item/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F)
 
 希尔排序其实就是加了步长的插入排序
 
