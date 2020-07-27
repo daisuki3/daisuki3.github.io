@@ -3,6 +3,7 @@ title: "关于希尔排序的步长有序性的证明"
 subtitle: "一个经常被忽视的值得关注的问题"
 layout: post
 author: yh
+header-style: text
 tags:
     - Program Art
 ---
