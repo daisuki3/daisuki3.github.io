@@ -2,7 +2,7 @@
 layout: post
 title: 关于希尔排序的步长有序性的证明
 subtitle: 一个值得关注的问题 
-date: 2020-07-27
+date: 2020-07-25
 author: yh
 catalog: true
 tags:
