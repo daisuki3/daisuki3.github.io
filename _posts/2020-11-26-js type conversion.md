@@ -7,6 +7,7 @@ author: yh
 catalog: true
 tags:
     - javascript
+    - Front End
 ---
 
 先来看几个常见的js类型转换问题
